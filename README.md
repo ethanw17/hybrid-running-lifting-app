@@ -5,7 +5,7 @@ A lightweight, mobile-friendly hybrid training program built with pure HTML and 
 This project combines a 3-day strength and hypertrophy lifting program with a beginner-friendly running progression designed for athletes looking to improve both strength and endurance without sacrificing recovery.
 
 **Live Demo:**  
-https://ethanw17.github.io/hybrid-workout-app/
+https://ethanw17.github.io/hybrid-running-lifting-app/
 
 ---
 
