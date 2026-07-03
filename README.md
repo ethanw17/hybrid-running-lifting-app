@@ -87,7 +87,7 @@ This project was created to provide a simple training dashboard that focuses on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ethanw17/hybrid-workout-app.git
+https://github.com/ethanw17/hybrid-workout-app/
 ```
 
 Open `index.html` in your browser.
